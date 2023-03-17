@@ -3,7 +3,7 @@ Human-in-the-Loop Assisted De Novo Molecular Design
 
 This repository contains source code of the methods presented in a paper
 
-I. Sundin, A. Voronov, H. Xiao, K. Papadopoulos, E. J. Bjerrum, M. Heinonen, A. Patronov, S. Kaski, O. Engkvist. (2022). Human-in-the-Loop Assisted de Novo Molecular Design.
+I. Sundin, A. Voronov, H. Xiao, K. Papadopoulos, E. J. Bjerrum, M. Heinonen, A. Patronov, S. Kaski, O. Engkvist. (2022). Human-in-the-Loop Assisted de Novo Molecular Design. J Cheminform 14, 86 (2022). https://doi.org/10.1186/s13321-022-00667-8
 
 
 Installation
@@ -139,4 +139,4 @@ Collect, analyze and plot the results using a notebook 'evaluate_results_Task2.i
 How to cite
 -------------------
 
-< to be added once available >
+Sundin, I., Voronov, A., Xiao, H. et al. Human-in-the-loop assisted de novo molecular design. J Cheminform 14, 86 (2022). https://doi.org/10.1186/s13321-022-00667-8
